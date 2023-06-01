@@ -3,7 +3,7 @@
     <img src="https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif">
 </div>
 
-<h1 align="center">Hi 👋, My Name is Animesh Mahajan</h1>
+<h1 align="center">Hi 👋, My Name is Prajwal Kulkarni</h1>
 
 <h2 align="center">Data Enthiusiast, Insights Discoverer</h2>
 
