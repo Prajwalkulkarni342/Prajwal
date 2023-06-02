@@ -46,7 +46,7 @@
 <p align="center">
 </br>
 <a href="https://www.github.com/Prajwalkulkarni342" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='Prajwalkulkarni342' width="40" height="40" /></a>
-<a href="https://linkedin.com/in/PrajwalKulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="PrajwalKulkarni" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/prajwal-kulkarni-04aa0516b" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="prajwal-kulkarni-04aa0516b" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/prajkulkarni45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="40" width="40" /></a>
 <a href="https://medium.com/@prajkulkarni45" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" /></a>
 
