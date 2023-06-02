@@ -1,18 +1,18 @@
 @@ -1,4 +1,6 @@
-![placeholder](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![placeholder](https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 <div align="center">
-    <img src="https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif">
+    <img src="https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif">
 </div>
 
-<h1 align="center">Hi 👋, My Name is Animesh Mahajan</h1>
+<h1 align="center">Hi 👋, My Name is Prajwal Kulkarni</h1>
 
 @@ -22,7 +24,9 @@
 </p>
 </br>
 
-![placeholder](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/skyline.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![placeholder](https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/skyline.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 <div align="center">
-    <img src="https://github.com/animeshmahajan8/animeshmahajan18/blob/main/skyline.gif">
+    <img src="https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/skyline.gif">
 </div>
 
 ---
