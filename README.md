@@ -1,3 +1,14 @@
+![placeholder](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+<div align="center">
+    
+
+
+
+
+
+---
+</br>
+
 <div align="center">
     <img src="https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif">
 </div>
