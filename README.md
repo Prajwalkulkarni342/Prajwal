@@ -1,42 +1,31 @@
-![placeholder](https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 <div align="center">
-    
-
-
-
-
-
----
-</br>
-
-<div align="center">
-    <img src="https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif">
+    <img src="https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif">
 </div>
 
-<h1 align="center">Hi 👋, My Name is Prajwal kulkarni</h1>
+<h1 align="center">Hi 👋, My Name is Animesh Mahajan</h1>
 
 <h2 align="center">Data Enthiusiast, Insights Discoverer</h2>
 
 </br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Prajwalkulkarni342&label=Profile%20views&color=0e75b6&style=flat" alt="Prajwalkulkarni342" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=animeshmahajan8&label=Profile%20views&color=0e75b6&style=flat" alt="animeshmahajan8" /> </p>
 
 </br>
 <p align="center">
-🌏 I’m based in <b>Bangalore, India</b>
+🌏 I’m based in <b>Bhopal, India</b>
 </p>
 <p align="center">
-🧠 I’m currently working on <b>Data Science Projects</b>
+🧠 I’m currently working on <b>Machine Learning projects</b>
 </p>
 <p align="center">
 💬 Ask me about <b>Python, Power BI, Unsupervised Learning</b>
 </p>
 <p align="center">
-✉️ You can contact me at <a href="mailto:Prajwalkulkarni342@gmail.com" target = "_blank"><b>Prajwalkulkarni342@gmail.com</b></a>
+✉️ You can contact me at <a href="mailto:animeshmahajan8@gmail.com" target = "_blank"><b>animeshmahajan8@gmail.com</b></a>
 </p>
 </br>
 
 <div align="center">
-    <img src="https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/skyline.gif">
+    <img src="https://github.com/animeshmahajan8/animeshmahajan18/blob/main/skyline.gif">
 </div>
 
 ---
@@ -45,10 +34,11 @@
 
 <p align="center">
 </br>
-<a href="https://www.github.com/Prajwalkulkarni342" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='Prajwalkulkarni342' width="40" height="40" /></a>
-<a href="https://linkedin.com/in/prajwal-kulkarni-04aa0516b" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="prajwal-kulkarni-04aa0516b" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/prajkulkarni45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="40" width="40" /></a>
-<a href="https://medium.com/@prajkulkarni45" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" /></a>
+<a href="https://www.github.com/animeshmahajan8" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='animeshmahajan8' width="40" height="40" /></a>
+<a href="https://linkedin.com/in/animeshmahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="animeshmahajan" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCxFXKdA_2eNpRuLk6_AoQJQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="animeshmahajan8" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/animeshmahajan8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="40" width="40" /></a>
+<a href="https://medium.com/@animeshmahajan8" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" /></a>
 
 </p>
 </br>
@@ -68,19 +58,19 @@
 </p>
 </br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prajwalkulkarni342&show_icons=true&locale=en&layout=compact" alt="Prajwalkulkarni342" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=animeshmahajan8&show_icons=true&locale=en&layout=compact" alt="animeshmahajan8" /></p>
 </br>
 
 ---
 
 </br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prajwalkulkarni342&show_icons=true&locale=en" alt="Prajwalkulkarni342" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshmahajan8&show_icons=true&locale=en" alt="animeshmahajan8" /></p>
 </br>
 
 ---
 
 </br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalkulkarni342&" alt="Prajwalkulkarni342" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshmahajan8&" alt="animeshmahajan8" /></p>
 </br>
 
 ---
