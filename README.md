@@ -1,4 +1,4 @@
-![placeholder](https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![placeholder](https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif)
 <div align="center">
     
 
