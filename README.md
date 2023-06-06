@@ -9,9 +9,6 @@
 ---
 </br>
 
-<div align="center">
-    <img src="https://github.com/Prajwalkulkarni342/Prajwalkulkarni342/blob/main/coding.gif">
-</div>
 
 <h1 align="center">Hi 👋, My Name is Prajwal kulkarni</h1>
 
